@@ -1,0 +1,11 @@
+openai
+langchain
+langchain-community
+tavily-python
+streamlit
+python-dotenv
+pydantic
+requests
+beautifulsoup4
+ipykernel
+jupyter
